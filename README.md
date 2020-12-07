@@ -11,10 +11,10 @@ In this course you will build a strong software development foundation and learn
 
 ### Instructional Staff
 
-Instructor: EDIT,  email: EDIT, slack: EDIT
+Instructor: Adam DuQuette,  email: adam.duquette@codefellows.com, slack: @Adam DuQuette
 
 
-**[Link to Canvas Assignments](https://canvas.instructure.com/courses/EDIT)**
+**[Link to Canvas Assignments](https://canvas.instructure.com/courses/2443153)**
 
 ### Course Schedule
 
