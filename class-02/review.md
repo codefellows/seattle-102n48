@@ -13,6 +13,9 @@ Small file size, doesn't have styling, focuses on syntax.
 - Just use a hyphen
 
 1. This is an ordered list
-1. Another list item
+1. New item
 1. This list starts with just 1
+1. New information
+1. Another list item
 
+[Link Text Here](https://github.com)
