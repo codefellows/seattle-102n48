@@ -12,6 +12,7 @@ Small file size, doesn't have styling, focuses on syntax.
 - Second syntax for unordered list
 - Just use a hyphen
 
-5. This is an ordered list
-5. Another 5
+1. This is an ordered list
+1. Another list item
+1. This list starts with just 1
 
