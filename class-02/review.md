@@ -29,4 +29,9 @@ Small file size, doesn't have styling, focuses on syntax.
 
 [My other page](README.md#learning-objectives)
 
-
+```html
+<h1>Some header</h1>
+<div>
+  <section></section>
+</div>
+```
