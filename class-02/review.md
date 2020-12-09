@@ -20,4 +20,4 @@ Small file size, doesn't have styling, focuses on syntax.
 
 [Link Text Here](https://github.com)
 
-[My other page](README.md)
+[My other page](README.md#learning-resources)
