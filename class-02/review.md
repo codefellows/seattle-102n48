@@ -19,3 +19,5 @@ Small file size, doesn't have styling, focuses on syntax.
 1. Another list item
 
 [Link Text Here](https://github.com)
+
+[My other page](README.md)
