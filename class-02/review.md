@@ -2,10 +2,10 @@
 
 ## Table of Contents
 
-- [Markdown](#markdown)
+- [Markdown](#markdown-notes)
 - [Links](#links)
 
-## Markdown
+## Markdown Notes
 
 Lightweight markup language.
 
