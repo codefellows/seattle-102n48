@@ -29,6 +29,8 @@ Small file size, doesn't have styling, focuses on syntax.
 
 [My other page](README.md#learning-objectives)
 
+<h1>Code blocks in Markdown</h1>
+
 ```html
 <h1>Some header</h1>
 <div>
