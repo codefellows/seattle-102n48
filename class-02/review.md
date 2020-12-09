@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [Markdown](#markdown-notes)
+- [Markdown](#MARKDOWN-notes)
 - [Links](#links)
 
 ## Markdown Notes
