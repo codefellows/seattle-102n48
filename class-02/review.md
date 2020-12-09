@@ -37,3 +37,5 @@ Small file size, doesn't have styling, focuses on syntax.
   <section></section>
 </div>
 ```
+
+> There is no try, only do.
