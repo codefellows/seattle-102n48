@@ -1,6 +1,6 @@
 # Structure Web Pages with HTML
 
-[Video recording on FrontRow]()
+[Video recording on FrontRow](https://frontrowviews.com/Home/Event/Play/5fcb0707e98468177c477f0b)
 
 ## Learning Objectives
 
