@@ -1,5 +1,7 @@
 # Structure Web Pages with HTML
 
+[Video recording on FrontRow]()
+
 ## Learning Objectives
 
 - Students will be able to outline primary content areas of a web page to create a lo-fidelity wireframe on the whiteboard.

@@ -1,5 +1,7 @@
 # Revisions and the Cloud
 
+[Video recording on FrontRow](https://frontrowviews.com/Home/Event/Play/5fcb06ade98468177c476856)
+
 ## Learning Objectives
 
 - Students will be able to create a new code repository in the cloud, and sync it to their local computer, using `git` commands in the terminal. 

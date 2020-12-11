@@ -33,4 +33,3 @@
 - **STRUCTURES** the page - HTML
   - Presentation / Styling / CSS
   - Logic / Interactivity / JavaScript
-- 

@@ -1,5 +1,7 @@
 # Learning. Markdown.
 
+[Video recording on FrontRow](https://frontrowviews.com/Home/Event/Play/5fcb06ade98468177c476838)
+
 Welcome to Code 102! We will dive right in to learning new things. 
 
 ## Learning Objectives

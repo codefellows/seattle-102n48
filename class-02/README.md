@@ -1,5 +1,7 @@
 # The Coder's Computer
 
+[Video recording on FrontRow](https://frontrowviews.com/Home/Event/Play/5fcb0707e98468177c477ef1)
+
 > The computer is a bicycle for the mind.
 >
 > —Steve Jobs
