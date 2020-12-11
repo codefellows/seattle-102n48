@@ -17,3 +17,20 @@
   - Record common errors and resolution in a reading-notes pages
 - Snowball of errors x2
 - 404 errors - Page Not Found
+
+
+## HTML - What do we already know?
+
+- Hyper Text Markup Language
+- Open and closing tags
+  - Sometimes!
+- HTML Tag Attributes
+- Header vs Head
+  - "a bunch of headers"
+  - "Head is above the..."
+    - url? body?
+  - something with a title
+- **STRUCTURES** the page - HTML
+  - Presentation / Styling / CSS
+  - Logic / Interactivity / JavaScript
+- 
