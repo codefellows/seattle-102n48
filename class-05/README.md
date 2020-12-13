@@ -2,6 +2,8 @@
 
 [Demo Repo](https://github.com/DukeOfEtiquette/ultimate-pokemon-website)
 
+[Video recording on FrontRow](https://frontrowviews.com/Home/Event/Play/5fcb06ade98468177c476875)
+
 ## Learning Objectives
 
 - Students will understand the role of CSS in creating a complete web page.
