@@ -1,5 +1,7 @@
 # Dynamic Web Pages with JavaScript
 
+[Demo Repo](https://github.com/DukeOfEtiquette/ultimate-pokemon-website)
+
 ## Learning Objectives
 
 - Students will incorporate JavaScript into a web page to create dynamic content that responds to input
