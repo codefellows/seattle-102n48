@@ -1,5 +1,9 @@
 # Programming with JavaScript
 
+[Demo Repo](https://github.com/DukeOfEtiquette/ultimate-pokemon-website)
+
+[Video recording on FrontRow](https://frontrowviews.com/Home/Event/Play/5fcb0707e98468177c477f26)
+
 ## Learning Objectives
 
 - Students will be able to create a script as a sequence of steps, executable by the computer, to achieve a stated goal.
