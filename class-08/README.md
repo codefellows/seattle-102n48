@@ -1,5 +1,9 @@
 # Computer Logic and Loops
 
+[Demo Repo](https://github.com/DukeOfEtiquette/ultimate-pokemon-website)
+
+[Video recording on FrontRow](https://frontrowviews.com/Home/Event/Play/5fcb0707e98468177c477f41)
+
 ## Learning Objectives
 
 - Students will explain how computers work, using technical terminology, at more than one level of detail. 
