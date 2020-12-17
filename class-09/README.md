@@ -1,5 +1,9 @@
 # Career Coaching
 
+[Demo Repo](https://github.com/DukeOfEtiquette/ultimate-pokemon-website)
+
+[Video recording on FrontRow](https://frontrowviews.com/Home/Event/Play/5fcb06ade98468177c4768ae)
+
 ## Learning Objectives
 
 - Students will experience a career outlook overview. 
